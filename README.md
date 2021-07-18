@@ -66,12 +66,13 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ```
-
 ## Demo Videos
+
+![demo](./demo.gif)
 
 Click this [link](https://drive.google.com/file/d/1YJ3YAE6_S-LE-e42pJf2zS2s_-V4oWo-/view) to see the full demo.
 
-
+---
 ## Contibutions
 
 [Kyle Wilson](https://github.com/lylekilson)
